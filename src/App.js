@@ -61,7 +61,7 @@ function App() {
 
   // Toggle list selection -----------------------------------------------------------------------
   const toggleListSelection = (listNumber) => {
-    console.log("list number " + listNumber);
+    // console.log("list number " + listNumber);
     // console.log(isCreatingNewList);
     if (isCreatingNewList) return;
     setSelectedLists((prev) =>
