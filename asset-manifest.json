@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sagar-kumar-yadav/Dynamic-List-Creation/static/css/main.b683603a.css",
+    "main.js": "/sagar-kumar-yadav/Dynamic-List-Creation/static/js/main.ff8a4468.js",
+    "index.html": "/sagar-kumar-yadav/Dynamic-List-Creation/index.html",
+    "main.b683603a.css.map": "/sagar-kumar-yadav/Dynamic-List-Creation/static/css/main.b683603a.css.map",
+    "main.ff8a4468.js.map": "/sagar-kumar-yadav/Dynamic-List-Creation/static/js/main.ff8a4468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b683603a.css",
+    "static/js/main.ff8a4468.js"
+  ]
+}
