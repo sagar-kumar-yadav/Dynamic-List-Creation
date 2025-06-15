@@ -21,7 +21,7 @@ const ListCreationView = ({
       }}
     >
       {/* Lists Row */}
-      <div style={{ display: "flex", gap: "20px" }}>
+      <div style={{ display: "flex", gap: "20px", alignItems: "center", justifyContent: "center", width: "100%" }}>
         {/* First List */}
         <ListContainer
           list={firstList}
